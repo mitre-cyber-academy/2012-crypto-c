@@ -1,0 +1,6 @@
+name: "Alexander Kemurdjian"
+description: |
+  The Russian lunar rover, Lunokhod 1, was mysteriously reactivated after many years of innactivity. It has started transmitting data but Russia has lost the keys for decrypting it. They have enlisted our help in reversing their encryption by giving us the program used to encrypt it. Here is the [encryption program](http://$static_file_server/cc-21a8ba3d5f514842ac2a2f8c73a864fe/encryptor) and the [data](http://$static_file_server/cc-21a8ba3d5f514842ac2a2f8c73a864fe/flag.encrypted). Good luck.
+  
+  Data MD5: b1c0b02fa4569bb4c046165c8a26d8fe<br/>Program MD5: b34b5f2ced72cf46648b57e7a97e3d85
+flag: "MCA-39090A5E"
